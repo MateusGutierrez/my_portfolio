@@ -8,6 +8,9 @@ import {
   FaJs,
   FaNode,
   FaReact,
+  FaNpm,
+  FaYarn,
+  FaLinux,
 } from "react-icons/fa";
 
 export const stackData = [
@@ -32,8 +35,20 @@ export const stackData = [
     title: "React",
     img: FaReact,
   },
-  { title: "Next.js", img: TbBrandNextjs },
-  { title: "Docker", img: FaDocker },
+  {
+    title: "npm",
+    img: FaNpm
+  },
+  {
+    title: "yarn",
+    img: FaYarn
+  },
+  {
+    title: "Linux",
+    img: FaLinux
+  },
+  // { title: "Next.js", img: TbBrandNextjs },
+  // { title: "Docker", img: FaDocker },
   { title: "PostgreSQL", img: SiPostgresql },
   { title: "Git", img: FaGit },
   { title: "Python", img: FaPython },

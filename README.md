@@ -52,3 +52,9 @@ Segue as informações sobre cada um:
         *   **linkedinUser:** _Inserindo o usuário do seu linkedin será gerado um link para que os usuários acessem seu LinkedIn_
             
         *   **whatsappNumber:** _Nessa propriedade você precisará inserir seu DDD junto com o seu número do whatsapp, assim quem clicar no link "whatsapp" irá ser enviado para o seu contato já com uma mensagem pré-definida_
+
+
+
+
+### ▪️ My-portifolio: 
+https://my-portfolio-mh4ytltey-mateusgutierrez.vercel.app/

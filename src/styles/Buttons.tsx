@@ -29,10 +29,11 @@ export const Button = styled("button", {
       primary: {
         background: "$brand1",
         borderColor: "$brand1",
-        color: "$whiteFixed",
+        color: "$brand_button",
         "&:hover": {
-          backgroundColor: "$brand2",
-          borderColor: "$brand2",
+          backgroundColor: "$brand_button",
+          borderColor: "$brand1",
+          color: "$whiteFixed"
         },
         "@mobile": {
           height: "2.5rem",

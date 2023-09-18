@@ -4,7 +4,7 @@ import { Button } from "@/styles/Buttons";
 import { css } from "@stitches/react";
 
 import meIlustration from "@/public/static/img/background/me-ilustration.svg";
-import backgroundImg from "@/public/static/img/background/header-bg.svg";
+import backgroundImg from "@/public/static/img/background/_.jpeg";
 
 import dots from "@/public/static/img/background/dots.svg";
 

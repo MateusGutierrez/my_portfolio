@@ -58,6 +58,13 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
+            I've always had an interest in the exact sciences, and I really enjoy understanding the laws of the universe and how it communicates with us. But how can I combine problem-solving and quality of life? That's when I discovered the field of Technology and Kenzie Academy.
+            <br></br>
+            <br></br>
+            <span style={{color: "white"}}>What are my goals?</span>
+            <br></br>
+            <br></br>
+              First and foremost, to learn as much as I can as a junior developer. Next, I plan to enroll in a Software Engineering course. I intend to bring a lot of enthusiasm and dedication to my career.
               Discover here in this environment, created especially for you, all
               my projects and technologies
             </Text>
